@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jaypipes/ghw"
+	"github.com/kev009/ghw"
 	"github.com/spf13/cobra"
 )
 
